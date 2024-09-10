@@ -50,7 +50,7 @@
       </a>
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link" href="logoff.php">
+          <a class="nav-link" href="logout.php">
             Sair
             <i class="fa fa-sign-out"></i></button>
           </a>
